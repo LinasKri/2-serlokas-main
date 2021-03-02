@@ -9,7 +9,7 @@ _25 group first website project_
 
 This project is for educational porpuses only. Pull request are welcome! Thank you for your cooperation!
 
-Site published at https://linaskri.github.io/2-1-serlokas-main/
+Site published at https://linaskri.github.io/2-serlokas-main/
 
 
 ## Project features
